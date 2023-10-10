@@ -1,2 +1,2 @@
 # dataweave-playground-examples
-mule dataweave playground examples samples
+mule mulesoft dataweave playground examples samples
